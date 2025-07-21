@@ -1,1 +1,1 @@
-http://188.166.231.136:2014/Ozzy/bug/fc?target=${target}
+http://188.166.231.136:2010/Ozzy/bug/fc?target=${target}
