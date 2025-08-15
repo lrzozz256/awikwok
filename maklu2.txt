@@ -1,1 +1,1 @@
-http://165.22.105.192:2009/Ozzy/bug/delayinvis?target=${target}
+http://139.59.29.228:3620/Ozzy/bug/delayinvis?target=${target}
