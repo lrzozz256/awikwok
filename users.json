@@ -1,6 +1,8 @@
 [
-  {
-    "username": "ozzy",
-    "password": "ganteng"
-  }
+  "users": [
+    {
+      "username": "ozzy",
+      "password": "ganteng"
+    }
+  ]
 ]
