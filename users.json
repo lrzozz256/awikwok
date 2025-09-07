@@ -2,7 +2,7 @@
   "users": [
     {
       "username": "ozzy",
-      "password": "ganteng"
+      "password": "1"
     },
     {
       "username": "iky",
@@ -11,6 +11,10 @@
     {
       "username": "Panz",
       "password": "dapolo"
+    },
+    {
+      "username": "Yanzz",
+      "password": "Yanzz1"
     }
   ]
 }
