@@ -1,1 +1,1 @@
-http://139.59.29.228:3413/Ozzy/bug/delayinvis?target=${target}
+http://139.59.106.16:2738/Ozzy/bug/fc?target=${target}
