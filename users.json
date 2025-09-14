@@ -2,35 +2,43 @@
   "users": [
     {
       "username": "ozzy",
-      "password": "1"
+      "password": "1",
+      "role": "Developer"
     },
     {
       "username": "iky",
-      "password": "1"
+      "password": "1",
+      "role": "Assistant"
     },
     {
       "username": "Panz",
-      "password": "dapolo"
+      "password": "dapolo",
+      "role": "Member"
     },
     {
       "username": "Yanzz",
-      "password": "Yanzz1"
+      "password": "Yanzz1",
+      "role": "Member"
     },
     {
       "username": "tiannx",
-      "password": "pesisir301"
+      "password": "pesisir301",
+      "role": "Member"
     },
     {
       "username": "panz",
-      "password": "123"
+      "password": "123",
+      "role": "Member"
     },
     {
       "username": "xenampas",
-      "password": "123"
+      "password": "123",
+      "role": "Member"
     },
     {
       "username": "astro",
-      "password": "ganteng"
+      "password": "ganteng",
+      "role": "Member"
     }
   ]
 }
